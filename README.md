@@ -16,7 +16,6 @@
   <br/>
   
   <img src="https://img.shields.io/twitter/follow/tak_kum_ma?style=social" href="https://twitter.com/_takumma"/>
-  <img src="https://zenn-badge.ganariya.vercel.app/takumma/liked" href="https://twitter.com/_takumma"/>
   
   <br/>
   
